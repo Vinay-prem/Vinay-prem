@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinay-prem
 - 👀 I’m interested in Development( Django + MERN ) and ML Engineering
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently a Data Scientist
 - 💞️ I’m looking to collaborate on MNC software engineers
 - 📫 Reach me in the linked in using this link www.linkedin.com/in/kandula-vinay-babu-889252278
 
